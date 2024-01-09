@@ -1,12 +1,12 @@
-# CodeGeeks DSA Bootcamp 2024
+# 🎓 CodeGeeks DSA Bootcamp 2024 🎓
 
 Welcome to the DSA (Data Structures and Algorithms) Boot Camp in Collaboration of Geeksforgeeks and CodeOn! This comprehensive program is designed to empower you with the essential skills and knowledge needed to excel in the world of computer science and software development. Whether you are a beginner looking to build a solid foundation or an experienced programmer aiming to sharpen your problem-solving abilities, this boot camp is tailored to meet your needs.
 
-## Overview
+## ✨ Overview ✨
 
 In the fast-evolving landscape of technology, proficiency in data structures and algorithms is a key factor in becoming a successful software engineer. The DSA Boot Camp provides a structured and hands-on approach to learning, enabling you to grasp fundamental concepts, develop problem-solving skills, and apply your knowledge to real-world scenarios.
 
-## What to Expect
+## 👉 What to Expect
   
 - **Comprehensive Curriculum:** Our carefully crafted curriculum covers a wide range of data structures and algorithms, ensuring a holistic understanding of the subject matter.
 
@@ -18,7 +18,13 @@ In the fast-evolving landscape of technology, proficiency in data structures and
 
 - **Career Readiness:** Beyond mastering DSA, our boot camp equips you with the skills needed to tackle technical interviews and excel in coding assessments, preparing you for success in your career.
 
-## Who Should Enroll
+## 🔎 Prerequisite
+
+- If you are a beginner and have a beginner level understanding of Data Structures concepts , you can be a part and you will learn so many new concepts when you dig down the questions and join dots.
+
+- If you are experienced and have already solved multiple problems across platforms and looking forward to revise those concepts with a set goal.
+
+## 📖 Who Should Enroll
 
 - **Students:** Whether you're a computer science student seeking a solid foundation or a student of any discipline looking to enhance your coding skills, this boot camp is for you.
 
@@ -26,7 +32,18 @@ In the fast-evolving landscape of technology, proficiency in data structures and
 
 - **Enthusiasts:** If you're passionate about coding and want to dive deep into the world of data structures and algorithms, this boot camp offers a structured path for your exploration.
 
+## 🔔 Schedule
 
+| Topic | #Date & Timming  | #Instructor  |
+| --------------| ------------| -------------- |
+| Basics of DSA | 16-Jan-2024 | Mr. XYZ Sharma |
+| Basics of DSA | 16-Jan-2024 | Mr. XYZ Sharma |
+| Basics of DSA | 16-Jan-2024 | Mr. XYZ Sharma |
+| Basics of DSA | 16-Jan-2024 | Mr. XYZ Sharma |
+| Basics of DSA | 16-Jan-2024 | Mr. XYZ Sharma |
+| Basics of DSA | 16-Jan-2024 | Mr. XYZ Sharma |
+| Basics of DSA | 16-Jan-2024 | Mr. XYZ Sharma |
+| Basics of DSA | 16-Jan-2024 | Mr. XYZ Sharma |
 
 ## Let's Get Started!
 
