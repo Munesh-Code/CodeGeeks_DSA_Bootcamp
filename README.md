@@ -37,13 +37,14 @@ In the fast-evolving landscape of technology, proficiency in data structures and
 | Topic | #Date & Timming  | #Instructor  |
 | --------------| ------------| -------------- |
 | Basics of DSA | 16-Jan-2024 | Mr. XYZ Sharma |
-| Basics of DSA | 16-Jan-2024 | Mr. XYZ Sharma |
-| Basics of DSA | 16-Jan-2024 | Mr. XYZ Sharma |
-| Basics of DSA | 16-Jan-2024 | Mr. XYZ Sharma |
-| Basics of DSA | 16-Jan-2024 | Mr. XYZ Sharma |
-| Basics of DSA | 16-Jan-2024 | Mr. XYZ Sharma |
-| Basics of DSA | 16-Jan-2024 | Mr. XYZ Sharma |
-| Basics of DSA | 16-Jan-2024 | Mr. XYZ Sharma |
+| Arrays | 16-Jan-2024 | Mr. XYZ Sharma |
+| Linked List | 16-Jan-2024 | Mr. XYZ Sharma |
+| Stack & Queues| 16-Jan-2024 | Mr. XYZ Sharma |
+| Recursion | 16-Jan-2024 | Mr. XYZ Sharma |
+| Bit Manipulation | 16-Jan-2024 | Mr. XYZ Sharma |
+| Trees | 16-Jan-2024 | Mr. XYZ Sharma |
+| Graphs | 16-Jan-2024 | Mr. XYZ Sharma |
+| Dynamic Programming | 16-Jan-2024 | Mr. XYZ Sharma |
 
 ## Let's Get Started!
 
